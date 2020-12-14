@@ -1,1 +1,1 @@
-web: python test-en-de.py
+web:python test-en-de.py
